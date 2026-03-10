@@ -1,4 +1,5 @@
 > Commit 1
+> Commit 2
 
 # Dev Container Features: Self Authoring Template
 
